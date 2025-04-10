@@ -31,7 +31,6 @@ environmentVariables:
   # WAN IP or a Dynamic DNS hostname.
   WG_HOST: localhost
   # Password for the UI.
-  PASSWORD: password
 
 serviceAccount:
   # Specifies whether a service account should be created
